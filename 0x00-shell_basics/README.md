@@ -1,1 +1,1 @@
-Running bash and printing working dir
+Display the contents list of your current directory
